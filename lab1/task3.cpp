@@ -10,7 +10,7 @@ struct user
 	int age;
 	int day,month,year;
 };
-
+//comment
 int main()
 {
 	int num;
